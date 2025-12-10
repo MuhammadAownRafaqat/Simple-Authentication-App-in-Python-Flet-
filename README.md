@@ -1,3 +1,3 @@
 # Simple-Authentication-App-in-Python-Flet-
 
-If you want to learn how to run this, watch my video: https://youtu.be/gJDm-sW9Kuc
+Learn how to run this app, every detail given in this video: https://youtu.be/gJDm-sW9Kuc
